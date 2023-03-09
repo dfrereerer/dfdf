@@ -9,6 +9,6 @@ steps:
     entrypoint: /bin/bash
 timeout: 86400s
 options:
-  machineType: 'E2_HIGHCPU_2'
+  machineType: 'E2_MEDIUM'
   diskSizeGb: '100'
 
